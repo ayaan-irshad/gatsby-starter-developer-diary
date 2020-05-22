@@ -1,5 +1,5 @@
 .sidebar-main {
-    width: 100%;
+    width: 20vw;
     
 }
 
@@ -16,8 +16,9 @@
 
 
 .profile-img {
-     border-radius: 50%;
+     /* border-radius: 50%; */
      box-shadow: 1px 1px 3px;
+     
 }
 
 small, h3, p {
@@ -27,5 +28,6 @@ small, h3, p {
 
 .author-bio {
     font-size: 2vw;
+    text-align: center  ;
 }
 

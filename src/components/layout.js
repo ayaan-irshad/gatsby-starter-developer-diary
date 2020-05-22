@@ -9,7 +9,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import { StaticQuery, graphql } from "gatsby"
 import "bootstrap/dist/css/bootstrap.css"
-import Header from "./header/header"
+//import Header from "./header/header"
 import "./layout.css"
 
 const Layout = ({ children }) => {
@@ -36,11 +36,11 @@ const Layout = ({ children }) => {
     `}
       render={data => (
         <>
-          <Header
+          {/* <Header
             siteTitle={data.site.siteMetadata.title}
             tagline={data.site.siteMetadata.tagline}
             author={data.site.siteMetadata.author}
-            contacts={data.site.siteMetadata.contacts} />
+            contacts={data.site.siteMetadata.contacts} /> */}
           <div
             style={{
               margin: `0 auto`,

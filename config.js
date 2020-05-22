@@ -1,20 +1,20 @@
 "use strict"
 
 module.exports = {
-  url: "https://developer-diary.netlify.com",
-  title: "Developer Diary",
-  tagline: "Autodidact developer and sometimes hoop-jumper",
-  copyright: "© 2019 willjw3, All rights reserved",
+  url: "https://ayaan-irshad.netlify.app",
+  title: "Ayaan Irshad",
+  tagline: "JavaScript, ReactJS, Gatsby",
+  copyright: "© 2020 Ayaan Irshad, All rights reserved",
   author: {
-    name: "WILL JAY",
-    bio: "Self-taught web developer and whisky aficionado",
+    name: "Ayaan Irshad",
+    bio: "Self-taught web developer",
     contacts: {
-      linkedin: "https://www.linkedin.com/in/will-ward-65234a170/",
-      github: "https://github.com/willjw3",
+      linkedin: "",
+      github: "https://github.com/ayaan-irshad",
       stackoverflow:
-        "https://stackoverflow.com/users/10262432/will-ward?tab=profile",
-      freecodecamp: "https://www.freecodecamp.org/willjw3",
-      twitter: "https://twitter.com/willjw3",
+        "https://stackoverflow.com/users/13451815/ayaan-irshad",
+      freecodecamp: "https://www.freecodecamp.org/ayaan",
+      twitter: "https://twitter.com/outlaw_dvlpr",
     },
   },
   labels: [
